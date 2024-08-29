@@ -28,3 +28,8 @@ Future cost saving measures:
     (right now I'm using a highflow CHT hotend and it's kind of too good for the printer)
 - 3D print more of the frame
     (inspired by ratrig v-chonk)
+
+#### License
+I'm still thinking about it, but this printer will probably end up with the licence:
+**CC BY-NC-SA** 
+However, I'm not sure if I could do that, since I adopted a lot of the designs from the Voron 0
