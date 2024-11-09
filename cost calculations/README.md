@@ -3,5 +3,6 @@ The printer costs only around **100 USD** equivolent. 3D printing stuff is indee
 
 note that
 - costs of screw&nuts not listed. They are relatively cheap and you may already have some
-- the cost of printing the plastic parts are not included also, this is because it is hard to keep track of. I will probably include that in future updates
+- the cost of printing the plastic parts are not included. This is because it is hard to keep track of. I will probably include that in future updates
+- the list will be updated
 

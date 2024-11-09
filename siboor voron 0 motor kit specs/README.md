@@ -1,0 +1,1 @@
+info about the motors I used in this build

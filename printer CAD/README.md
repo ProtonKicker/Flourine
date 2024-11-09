@@ -1,0 +1,1 @@
+unzip it for the STEP file
