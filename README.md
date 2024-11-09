@@ -12,7 +12,12 @@ The Flourine 3D printer is designed with cost-effectiveness in mind, aiming to m
 - Uses Voron 0 XY plane belt path
 - Compatible with stock Voron 0 frame
 - Utilizes smooth rods and bearings as a cost-effective alternative to linear rails
-- Feature a more compact toolhead that does not include part cooling
+- Feature a more compact toolhead
+
+## Work In Progress
+- upgrading toolhead cooling
+- setting up a better pinter profile
+- upgrade to heated bed
 
 ## Future Plans
 
