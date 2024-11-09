@@ -1,35 +1,29 @@
-# Flourine
-#### Intro:
-This printer is not for speed, but all about cost. I want to make the cheapest 3D printer possible, making 3D printing availible for everyone.
+# Flourine 3D Printer
 
-The printer is based on the Voron 0, but the linear rails are changed to smooth rods and the mini stealthburner is replaced with a very simple yet smaller toolhead.
+## Introduction
+The Flourine 3D printer is designed with cost-effectiveness in mind, aiming to make 3D printing accessible to more people.
 
-In the future, the printer is going to be upgraded. Hopefully, I could make it better while not drastically increasing costs.
+## Current Status
+- **Version:** v0.9  
+- **Note:** The printer is functional but not recommended for building at this time. Minor issues with the CAD files need to be addressed.
 
-#### Status:
-v0.9
-Right now, the printer prints, but a build is not reccommened at this time. More works needs to be done.
-For example, the CAD file have some minor problems at the moment, and the bed wobbles. Yes this printer works, especially considering the price, but make sure that you know this printer is somewhat problematic now.
+## Design Overview
+- Adopts Voron 0 X and Y axis motor mount design
+- Uses Voron 0 XY plane belt path
+- Compatible with stock Voron 0 frame
+- Utilizes smooth rods and bearings as a cost-effective alternative to linear rails
+- Feature a more compact toolhead that does not include part cooling
 
-#### Future plans:
-Overall, this printer didn't cost me much but it's kind of crappy. Here's the future upgrades:
-- linear rails
-    The smooth rods and bearings I used is kind of hitting its limits around 300mm/s, shaking a lot. Linear rails could probably fix that.
-- heated bed
-    I'm using a piece of unheated glass right now. Sometimes things just won't stick on to it.
-- stronger bed gantry
-    That 3D printed gantry shakes
-- more cooling
-    Right now, there's only a cooling fan for the hotend heat sink. Part cooling fans will be added in the future.
-- bl touch
+## Future Plans
 
-Future cost saving measures:
-- downgrade to standard hotend
-    (right now I'm using a highflow CHT hotend and it's kind of too good for the printer)
-- 3D print more of the frame
-    (inspired by ratrig v-chonk)
+### Upgrades
+- **Heated Bed:** Upgrade from unheated glass to improve print adhesion.
+- **Additional Cooling:** Add part cooling fans.
+- **BL Touch:** Integrate a BL Touch sensor for improved bed leveling.
 
-#### License
-I'm still thinking about it, but this printer will probably end up with the licence:
-**CC BY-NC-SA** 
-However, I'm not sure if I could do that, since I adopted a lot of the designs from the Voron 0
+### Cost-Saving Measures
+- **Downgrade Hotend:** Replace the CHC hotend with a standard V6 hotend.
+- **3D Print Frame Components:** Inspired by RatRig V-Chonk, print more frame components to reduce costs.
+
+## License
+The Flourine 3D printer will likely be licensed under **CC BY-NC-SA**. However, due to the adoption of designs from the Voron 0, the licensing details are still being considered. (I'll figure that out)
