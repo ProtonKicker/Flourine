@@ -17,7 +17,7 @@ The Flourine 3D printer is designed with cost-effectiveness in mind, aiming to m
 ## Work In Progress
 - upgrading toolhead cooling
 - setting up a better pinter profile
-- upgrade to heated bed
+- upgrade to heated bed (and also a stronger bed gantry)
 
 ## Future Plans
 
