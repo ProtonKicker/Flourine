@@ -24,7 +24,7 @@ The Flourine 3D printer is designed with cost-effectiveness in mind, aiming to m
 ### Upgrades
 - **Heated Bed:** Upgrade from unheated glass to improve print adhesion.
 - **Additional Cooling:** Add part cooling fans.
-- **BL Touch:** Integrate a BL Touch sensor for improved bed leveling.
+- **BL Touch:** Integrate a BL Touch sensor for improved bed leveling. Or maybe a inductive sensor like Prusa.
 
 ### Cost-Saving Measures
 - **Downgrade Hotend:** Replace the CHC hotend with a standard V6 hotend.
