@@ -4,7 +4,7 @@
 The Flourine 3D printer is designed with cost-effectiveness in mind, aiming to make 3D printing accessible to more people.
 
 ## Current Status
-- **Version:** v0.9  
+- **Version:** v0.9  (a completed version will be v1.0)
 - **Note:** The printer is functional but not recommended for building at this time. Minor issues with the CAD files need to be addressed.
 
 ## Design Overview
