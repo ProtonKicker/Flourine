@@ -17,7 +17,7 @@ The Flourine 3D printer is designed with cost-effectiveness in mind, aiming to m
 ## Work In Progress
 - upgrading toolhead cooling
 - setting up a good pinter profile
-- upgrade to heated bed
+- replace lm8lu bearing with lm8luu bearing on z-axis
 
 ## Future Plans
 
@@ -25,7 +25,6 @@ The Flourine 3D printer is designed with cost-effectiveness in mind, aiming to m
 - **Heated Bed:** Upgrade from unheated glass to improve print adhesion.
 - **Additional Cooling:** Add part cooling fans.
 - **BL Touch:** Integrate a BL Touch sensor for improved bed leveling. Or maybe a inductive sensor like Prusa.
-- **Y axis** add more smooth rods to the Y axis
 
 ### Cost-Saving Measures
 - **Downgrade Hotend:** Replace the CHC hotend with a standard V6 hotend.
