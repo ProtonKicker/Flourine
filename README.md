@@ -1,11 +1,11 @@
-# Flourine 3D Printer
+# Flourine ( a Voron 0.2 inspired 3D Printer)
 
 ## Introduction
-The Flourine 3D printer is designed with cost-effectiveness in mind, aiming to make 3D printing accessible to more people.
+The Flourine 3D printer is designed with cost-effectiveness in mind, aiming to make 3D printing accessible to more people. It is essentially a Voron 0 fitted with smooth rods and bearings.
 
 ## Current Status
-- **Version:** v0.9  (a completed version will be v1.0)
-- **Note:** The printer is functional but not recommended for building at this time. Minor issues with the CAD files need to be addressed.
+- **Version:** v1.0  (a completed version that works)
+- **Note:** The printer is functional but further imporvements will be made. Minor upgrades will be published.
 
 ## Design Overview
 - Adopts Voron 0 X and Y axis motor mount design
@@ -15,19 +15,11 @@ The Flourine 3D printer is designed with cost-effectiveness in mind, aiming to m
 - Feature a more compact toolhead
 
 ## Work In Progress
-- upgrading toolhead cooling
-- setting up a good pinter profile
-- replace lm8lu bearing with lm8luu bearing on z-axis
+- upgrade the bed gantry: split it to serveral parts to be printable on the printer itself
 
 ## Future Plans
-
-### Upgrades
-- **Heated Bed:** Upgrade from unheated glass to improve print adhesion.
-- **Additional Cooling:** Add part cooling fans.
-- **BL Touch:** Integrate a BL Touch sensor for improved bed leveling. Or maybe a inductive sensor like Prusa.
-
-### Cost-Saving Measures
-- **Downgrade Hotend:** Replace the CHC hotend with a standard V6 hotend.
+- **Improve bed leving:** Integrate a BL Touch sensor for improved bed leveling. Or maybe a inductive sensor like Prusa's machines.
+- **Downgrade Hotend:** Replace the CHC hotend with a standard V6 hotend (or Bambu hotend).
 - **3D Print Frame Components:** Inspired by RatRig V-Chonk, print more frame components to reduce costs.
 
 ## License
