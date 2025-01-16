@@ -1,4 +1,4 @@
-# Flourine ( a Voron 0.2 inspired 3D Printer)
+# Flourine v1.0 - Probably the CHEAPEST CoreXY Klipper 3D Printer on Earth!
 
 ## Introduction
 The Flourine 3D printer is designed with cost-effectiveness in mind, aiming to make 3D printing accessible to more people. It is essentially a Voron 0 fitted with smooth rods and bearings.
