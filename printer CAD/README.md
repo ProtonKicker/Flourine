@@ -1,1 +1,1 @@
-unzip it for the STEP file
+Unzip using Windows/Mac defualt zipper for the printer assembly's STEP file.
